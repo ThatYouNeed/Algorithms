@@ -14,4 +14,3 @@ for i in range(2,n):
     n1 = n2
     n2 = n3
     print(n3,end=" ")
-    
