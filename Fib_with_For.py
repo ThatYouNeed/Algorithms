@@ -3,7 +3,7 @@ n = int(input('Enter: '))
 n1,n2 = 0,1
 
 if n==0:
-    print("Chusko Bro!")
+    print("Check the Number")
 if n>=1:
     print(n1,end = " ")
 if n>=2:
